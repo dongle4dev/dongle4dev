@@ -3,7 +3,7 @@ dongle4dev/dongle4dev is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 # 💫 About Me:
-👋 Hi, I’m @dongle4dev 🔭 I’m currently working on my Skills.<br>🤝 I’m looking for help with Exploring New Technologies.<br>🌱 I’m currently learning more about Back End Development.<br>💬 Ask me about any tech-related stuff<br>📪 How to reach me: Email - lddong20@clc.fitus.edu.vn
+👋 Hi, I’m @dongle4dev 🔭 I’m currently working on my Skills.<br>🤝 I’m looking for help with Exploring New Technologies.<br>🌱 I’m currently learning more about Back End Development.<br>💬 Ask me about any tech-related stuff<br>📪 How to reach me: Email - lddong.dev@gmail.com
 
 
 ## 🌐 Socials:
